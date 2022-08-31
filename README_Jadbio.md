@@ -1,6 +1,8 @@
 Practiced Auto ML using Jadbio, 
 
-Used a students score data set from Kaggle that has two columns, Number of hours, scores and predictions are made of scores based on number of hours using linear regression.
+Used a students score data set from Kaggle that has two columns, Number of hours, scores and predictions are made of scores based on number of hours using linear regression. Please find the link below for the same.
+
+https://youtu.be/FemJhQiyDVw
 
 
 
