@@ -11,3 +11,6 @@ Time Series Forecasting - Univariate with Exogenous Variables - htag property ho
 
 
 All the above methods were practiced using both pycaret and explicit cleaning using pandas.
+
+
+Gradio is used on binary classification and regression
