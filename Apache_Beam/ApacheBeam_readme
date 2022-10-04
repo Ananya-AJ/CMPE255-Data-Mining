@@ -1,5 +1,6 @@
-Using a grocery.txt data
-Filtering the data by its item type-> dairy and baking goods
-Passing the filtered o/p pcollection to custom transform functions
-Uploading the text file shared on github before running the colab.
+Use the table of contents on colab tonavigate to any particular cell.
+Use world_happiness.csv as input data
+Filter, map and some composite transform functions belonging to combiners are used.
+Upload the csv file - > world_happiness_2017.csv shared on github before running the colab.
 output will be saved in two different texts on colab.
+Uploading the results/output files here for reference.
