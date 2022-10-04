@@ -1,0 +1,5 @@
+Using a grocery.txt data
+Filtering the data by its item type-> dairy and baking goods
+Passing the filtered o/p pcollection to custom transform functions
+Uploading the text file shared on github before running the colab.
+output will be saved in two different texts on colab.
