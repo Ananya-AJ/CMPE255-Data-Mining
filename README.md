@@ -43,3 +43,14 @@ Assignment 4:
 
 Each of these folders have link to colab, datasets if have to be uploaded seperately or kaggle token if datasets are to be downloaded to colab.
 Each of these folders have their own readme files that give an extra information on what colab contains and how to run.
+
+Assignment 5:
+Data Preparation on House price classification data i) various scaling(normalization) techniques and data portability techniques is demonstrated.
+
+ii) various feature subset selection techniques are used
+
+iii) various data imputation techniques are demonstrated (MICE etc.,.)
+
+iv) Used PCA data dimensionality reduction techniques
+
+b) data preparation with auto viml tools (including feature selecting using sulov/xgboost etc,..) is demonstrated in AUTO_VIML colab
