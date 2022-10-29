@@ -11,3 +11,5 @@ iv) Used PCA data dimensionality reduction techniques
 
 b) data preparation with auto viml tools (including feature selecting using sulov/xgboost etc,..) is demonstrated in AUTO_VIML colab
 
+c) end to end ml on databricks screenshots in doc
+
