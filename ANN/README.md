@@ -1,1 +1,1 @@
-This folder contains LSH, Random projections demonstration.
+This folder contains LSH, Random projections demonstration, exhaustive search with quantization, trees
