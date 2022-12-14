@@ -1,6 +1,9 @@
 Medium article is about classifying youtube comments into 5 classes based on sentiment analysis and sentence types.
 https://medium.com/@ananya.joshi_70890/classification-of-youtube-comments-based-on-sentiments-and-sentence-types-80cc05514052
 
+Presentation link on slideshare:
+https://www.slideshare.net/AnanyaJoshi38/shortstorypptpptx-254903672
+
 
 The article talks about classifying youtube comments into 5 classes - Imperative, Interrogative, Positive, Negative, Miscellaneous, Corrective.
 
